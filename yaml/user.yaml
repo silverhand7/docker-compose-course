@@ -1,0 +1,14 @@
+firstName: "Refo"
+lastName: "Gomez"
+hobbies:
+  - "Coding"
+  - "Gaming"
+address:
+  street: Andakasa
+  city: Denpasar
+  province: Jakarta
+wallets:
+  - type: cash
+    amount: 1000
+  - type: debit
+    amount: 500
